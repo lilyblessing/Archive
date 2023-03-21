@@ -1,222 +1,220 @@
-payload:
 # 🌍 IPLC
- - PROCESS-NAME,OneDrive.exe,🌍 IPLC
- - PROCESS-NAME,onenote.exe,🌍 IPLC
- - PROCESS-NAME,subconverter.exe,🌍 IPLC
- - PROCESS-NAME,Todo.exe,🌍 IPLC
- - DOMAIN,sub.lilyblessing.xyz,🌍 IPLC
- - DOMAIN,suc.lilyblessing.xyz,🌍 IPLC
- - DOMAIN,hub.docker.com,🌍 IPLC
- - DOMAIN,colab.research.google.com,🌍 IPLC
- - DOMAIN-KEYWORD,gmail,🌍 IPLC
- - DOMAIN-KEYWORD,yandex,🌍 IPLC
+  - PROCESS-NAME,OneDrive.exe,🌍 IPLC
+  - PROCESS-NAME,onenote.exe,🌍 IPLC
+  - PROCESS-NAME,subconverter.exe,🌍 IPLC
+  - PROCESS-NAME,Todo.exe,🌍 IPLC
+  - DOMAIN,sub.lilyblessing.xyz,🌍 IPLC
+  - DOMAIN,suc.lilyblessing.xyz,🌍 IPLC
+  - DOMAIN,hub.docker.com,🌍 IPLC
+  - DOMAIN,colab.research.google.com,🌍 IPLC
+  - DOMAIN-KEYWORD,gmail,🌍 IPLC
+  - DOMAIN-KEYWORD,yandex,🌍 IPLC
 
 
 # 🇺🇲 美国节点
- - DOMAIN-SUFFIX,freenom.com,🇺🇲 美国节点
+  - DOMAIN-SUFFIX,freenom.com,🇺🇲 美国节点
 
 # ChatGPT
- - DOMAIN, cdn.auth0.com,🇺🇲 美国节点
- - DOMAIN, openaiapi-site.azureedge.net,🇺🇲 美国节点
- - DOMAIN-SUFFIX,openai.com,🇺🇲 美国节点
- - DOMAIN-SUFFIX, openai.com,🇺🇲 美国节点
- - DOMAIN-SUFFIX, ai.com,🇺🇲 美国节点
+  - DOMAIN,cdn.auth0.com,🇺🇲 美国节点
+  - DOMAIN,openaiapi-site.azureedge.net,🇺🇲 美国节点
+  - DOMAIN-SUFFIX,openai.com,🇺🇲 美国节点
+  - DOMAIN-SUFFIX,ai.com,🇺🇲 美国节点
 
 # 🇨🇳 台湾节点
- - DOMAIN-SUFFIX,manhuagui.com,🇨🇳 台湾节点
- - DOMAIN-SUFFIX,hamreus.com,🇨🇳 台湾节点
- - DOMAIN-SUFFIX,hentaiathome.net,🇨🇳 台湾节点
- - DOMAIN-SUFFIX,nyahentai.com,🇨🇳 台湾节点
+  - DOMAIN-SUFFIX,manhuagui.com,🇨🇳 台湾节点
+  - DOMAIN-SUFFIX,hamreus.com,🇨🇳 台湾节点
+  - DOMAIN-SUFFIX,hentaiathome.net,🇨🇳 台湾节点
+  - DOMAIN-SUFFIX,nyahentai.com,🇨🇳 台湾节点
 
 # 🗾 cygames
- - PROCESS-NAME,umamusume.exe,🗾 cygames
- - PROCESS-NAME,HD-Player.exe,🗾 cygames
- - DOMAIN-KEYWORD,umamusume,🗾 cygames
- - DOMAIN-KEYWORD,cygames,🗾 cygames
- - DOMAIN-SUFFIX,so-net.tw,🗾 cygames
- - DOMAIN-SUFFIX,qoo-apk.com,🗾 cygames
- - DOMAIN-SUFFIX,nikke-kr.com,🗾 cygames
+  - PROCESS-NAME,umamusume.exe,🗾 cygames
+  - PROCESS-NAME,HD-Player.exe,🗾 cygames
+  - DOMAIN-KEYWORD,umamusume,🗾 cygames
+  - DOMAIN-KEYWORD,cygames,🗾 cygames
+  - DOMAIN-SUFFIX,so-net.tw,🗾 cygames
+  - DOMAIN-SUFFIX,qoo-apk.com,🗾 cygames
+  - DOMAIN-SUFFIX,nikke-kr.com,🗾 cygames
 
 # 🇯🇵 日本节点
- - PROCESS-NAME,DMMGamePlayer.exe,🇯🇵 日本节点
- - PROCESS-NAME,DMMGamePlayerBeta.exe,🇯🇵 日本节点
- - PROCESS-NAME,imascgstage.exe,🇯🇵 日本节点
- - PROCESS-NAME,HeavenBurnsRed.exe,🇯🇵 日本节点
- - DOMAIN-KEYWORD,dmm,🇯🇵 日本节点
- - DOMAIN-KEYWORD,shinycolors,🇯🇵 日本节点
- - DOMAIN-SUFFIX,nicovideo.jp,🇯🇵 日本节点
- - DOMAIN-SUFFIX,dmm.com,🇯🇵 日本节点
- - DOMAIN-SUFFIX,granbluefantasy.jp,🇯🇵 日本节点
- - DOMAIN-SUFFIX,mora.jp,🇯🇵 日本节点
- - DOMAIN-SUFFIX,bing.com,🇯🇵 日本节点
+  - PROCESS-NAME,DMMGamePlayer.exe,🇯🇵 日本节点
+  - PROCESS-NAME,DMMGamePlayerBeta.exe,🇯🇵 日本节点
+  - PROCESS-NAME,imascgstage.exe,🇯🇵 日本节点
+  - PROCESS-NAME,HeavenBurnsRed.exe,🇯🇵 日本节点
+  - DOMAIN-KEYWORD,dmm,🇯🇵 日本节点
+  - DOMAIN-KEYWORD,shinycolors,🇯🇵 日本节点
+  - DOMAIN-SUFFIX,nicovideo.jp,🇯🇵 日本节点
+  - DOMAIN-SUFFIX,dmm.com,🇯🇵 日本节点
+  - DOMAIN-SUFFIX,granbluefantasy.jp,🇯🇵 日本节点
+  - DOMAIN-SUFFIX,mora.jp,🇯🇵 日本节点
+  - DOMAIN-SUFFIX,bing.com,🇯🇵 日本节点
 
 
 # Ⓜ️ 微软云盘
- - DOMAIN-SUFFIX,sharepoint.com,☄ 下载
- - DOMAIN-SUFFIX,sharepoint.cn,☄ 下载
- - DOMAIN-SUFFIX,live.com,☄ 下载
+  - DOMAIN-SUFFIX,sharepoint.com,☄ 下载
+  - DOMAIN-SUFFIX,sharepoint.cn,☄ 下载
+  - DOMAIN-SUFFIX,live.com,☄ 下载
 
 # Ⓜ️ 微软服务
- - DOMAIN-SUFFIX,msftncsi.com,🌍 IPLC
- - DOMAIN-SUFFIX,msftconnecttest.com,🌍 IPLC
- - DOMAIN-SUFFIX,microsoft.com,🌍 IPLC
- - DOMAIN-SUFFIX,microsoftonline.com,🌍 IPLC
- - DOMAIN-SUFFIX,tlu.dl.delivery.mp.microsoft.com,☄ 下载
+  - DOMAIN-SUFFIX,msftncsi.com,🌍 IPLC
+  - DOMAIN-SUFFIX,msftconnecttest.com,🌍 IPLC
+  - DOMAIN-SUFFIX,microsoft.com,🌍 IPLC
+  - DOMAIN-SUFFIX,microsoftonline.com,🌍 IPLC
+  - DOMAIN-SUFFIX,tlu.dl.delivery.mp.microsoft.com,☄ 下载
 
 
 #☄ 下载
- - PROCESS-NAME,dnplayer.exe,☄ 下载
- - PROCESS-NAME,AirExplorer.exe,☄ 下载
- - PROCESS-NAME,yt-dlp.exe,☄ 下载
- - PROCESS-NAME,Koodo Reader.exe,☄ 下载
- - PROCESS-NAME,PotPlayerMini64.exe,☄ 下载
- - PROCESS-NAME,RaiDrive.Service.x64.exe,☄ 下载
- - DOMAIN-KEYWORD,mega,☄ 下载
- - DOMAIN,dl.google.com,☄ 下载
-# - DOMAIN-SUFFIX,so-net.tw,☄ 下载
- - DOMAIN-SUFFIX,hath.network,☄ 下载
- - DOMAIN-SUFFIX,komoejoy.com,☄ 下载
- - DOMAIN-SUFFIX,hanime1.me,☄ 下载
- - DOMAIN-SUFFIX,asmrgay.com,☄ 下载
- - DOMAIN-SUFFIX,githubusercontent.com,☄ 下载
- - DOMAIN-SUFFIX,fc2.com,☄ 下载
- - DOMAIN-SUFFIX,avgle.com,☄ 下载
- - DOMAIN-SUFFIX,javhdporn.net,☄ 下载
- - DOMAIN-SUFFIX,ggjav.com,☄ 下载
- - DOMAIN-SUFFIX,qooqlevideo.com,☄ 下载
- - DOMAIN-SUFFIX,forhertube.com,☄ 下载
- - DOMAIN-SUFFIX,lesbea.com,☄ 下载
- - DOMAIN-SUFFIX,androidfilehost.com,☄ 下载
- - DOMAIN-SUFFIX,docker.com,☄ 下载
+  - PROCESS-NAME,dnplayer.exe,☄ 下载
+  - PROCESS-NAME,AirExplorer.exe,☄ 下载
+  - PROCESS-NAME,yt-dlp.exe,☄ 下载
+  - PROCESS-NAME,Koodo Reader.exe,☄ 下载
+  - PROCESS-NAME,PotPlayerMini64.exe,☄ 下载
+  - PROCESS-NAME,RaiDrive.Service.x64.exe,☄ 下载
+  - DOMAIN-KEYWORD,mega,☄ 下载
+  - DOMAIN,dl.google.com,☄ 下载
+#  - DOMAIN-SUFFIX,so-net.tw,☄ 下载
+  - DOMAIN-SUFFIX,hath.network,☄ 下载
+  - DOMAIN-SUFFIX,komoejoy.com,☄ 下载
+  - DOMAIN-SUFFIX,hanime1.me,☄ 下载
+  - DOMAIN-SUFFIX,asmrgay.com,☄ 下载
+  - DOMAIN-SUFFIX,githubusercontent.com,☄ 下载
+  - DOMAIN-SUFFIX,fc2.com,☄ 下载
+  - DOMAIN-SUFFIX,avgle.com,☄ 下载
+  - DOMAIN-SUFFIX,javhdporn.net,☄ 下载
+  - DOMAIN-SUFFIX,ggjav.com,☄ 下载
+  - DOMAIN-SUFFIX,qooqlevideo.com,☄ 下载
+  - DOMAIN-SUFFIX,forhertube.com,☄ 下载
+  - DOMAIN-SUFFIX,lesbea.com,☄ 下载
+  - DOMAIN-SUFFIX,androidfilehost.com,☄ 下载
+  - DOMAIN-SUFFIX,docker.com,☄ 下载
 # 游戏组
- - PROCESS-NAME,EADesktop.exe,☄ 下载
- - PROCESS-NAME,battle.net.exe,☄ 下载
- - DOMAIN-KEYWORD,epicgames,☄ 下载
- - DOMAIN-KEYWORD,xbox,☄ 下载
- - DOMAIN-KEYWORD,nexon,☄ 下载
-#  - DOMAIN-KEYWORD,battlenet,☄ 下载
- - DOMAIN-SUFFIX,ea.com,☄ 下载
- - DOMAIN-SUFFIX,steamstatic.com,☄ 下载
-# - DOMAIN-SUFFIX,steam-chat.com,☄ 下载
- - DOMAIN-SUFFIX,steampowered.com,☄ 下载
- - DOMAIN-SUFFIX,steamcommunity.com,☄ 下载
- - DOMAIN-SUFFIX,steamcontent.com,☄ 下载
- - DOMAIN-SUFFIX,s-microsoft.com,☄ 下载
- - DOMAIN-SUFFIX,gamepass.com,☄ 下载
-# - DOMAIN-SUFFIX,googleapis.com,☄ 下载
-# - DOMAIN-SUFFIX,googleusercontent.com,☄ 下载
+  - PROCESS-NAME,EADesktop.exe,☄ 下载
+  - PROCESS-NAME,battle.net.exe,☄ 下载
+  - DOMAIN-KEYWORD,epicgames,☄ 下载
+  - DOMAIN-KEYWORD,xbox,☄ 下载
+  - DOMAIN-KEYWORD,nexon,☄ 下载
+#   - DOMAIN-KEYWORD,battlenet,☄ 下载
+  - DOMAIN-SUFFIX,ea.com,☄ 下载
+  - DOMAIN-SUFFIX,steamstatic.com,☄ 下载
+#  - DOMAIN-SUFFIX,steam-chat.com,☄ 下载
+  - DOMAIN-SUFFIX,steampowered.com,☄ 下载
+  - DOMAIN-SUFFIX,steamcommunity.com,☄ 下载
+  - DOMAIN-SUFFIX,steamcontent.com,☄ 下载
+  - DOMAIN-SUFFIX,s-microsoft.com,☄ 下载
+  - DOMAIN-SUFFIX,gamepass.com,☄ 下载
+#  - DOMAIN-SUFFIX,googleapis.com,☄ 下载
+#  - DOMAIN-SUFFIX,googleusercontent.com,☄ 下载
 # 🚀 节点选择
-# - PROCESS-NAME,aria2c.exe,🚀 节点选择
- - PROCESS-NAME,Pixeval.exe,🚀 节点选择
- - DOMAIN-KEYWORD,gog,🚀 节点选择
- - DOMAIN-KEYWORD,pica,🚀 节点选择
- - DOMAIN,web.telegram.org,🚀 节点选择
- - DOMAIN,tools.google.com,🚀 节点选择
- - DOMAIN-SUFFIX,lilyblessing.xyz,🚀 节点选择
- - DOMAIN-SUFFIX,lilyblessing.tk,🚀 节点选择
- - DOMAIN-SUFFIX,xpoet.cn,🚀 节点选择
- - DOMAIN-SUFFIX,keylol.com,🚀 节点选择
- - DOMAIN-SUFFIX,moetu.club,🚀 节点选择
- - DOMAIN-SUFFIX,mspcdn.xyz,🚀 节点选择
- - DOMAIN-SUFFIX,orzcdn.xyz,🚀 节点选择
- - DOMAIN-SUFFIX,zhihuishu.com,🚀 节点选择
- - DOMAIN-SUFFIX,appnode.com,🚀 节点选择
- - DOMAIN-SUFFIX,gstatic.com,🚀 节点选择
- - DOMAIN-SUFFIX,copymanga.com,🚀 节点选择
- - DOMAIN-SUFFIX,sayhuahuo.com,🚀 节点选择
- - DOMAIN-SUFFIX,runoob.com,🚀 节点选择
- - DOMAIN-SUFFIX,cloudflare.com,🚀 节点选择
- - DOMAIN-SUFFIX,south-plus.net,🚀 节点选择
- - DOMAIN-SUFFIX,south-plus.org,🚀 节点选择
- - DOMAIN-SUFFIX,level-plus.net,🚀 节点选择
- - DOMAIN-SUFFIX,spring-plus.net,🚀 节点选择
- - DOMAIN-SUFFIX,summer-plus.net,🚀 节点选择
- - DOMAIN-SUFFIX,dlsite.com,🚀 节点选择
- - DOMAIN-SUFFIX,pximg.net,🚀 节点选择
- - DOMAIN-SUFFIX,pixiv.net,🚀 节点选择
- - DOMAIN-SUFFIX,qoo-app.com,🚀 节点选择
- - DOMAIN-SUFFIX,steampy.com,🚀 节点选择
- - DOMAIN-SUFFIX,msocdn.com,🚀 节点选择
- - DOMAIN-SUFFIX,office.com,🚀 节点选择
- - DOMAIN-SUFFIX,moegirl.org,🚀 节点选择
- - DOMAIN-SUFFIX,javdb.com,🚀 节点选择
- - DOMAIN-SUFFIX,vaptcha.com,🚀 节点选择
- - DOMAIN-SUFFIX,acgrip.com,🚀 节点选择
- - DOMAIN-SUFFIX,tsdm39.net,🚀 节点选择
- - DOMAIN-SUFFIX,freesw.xyz,🚀 节点选择
- - DOMAIN-SUFFIX,2dfan.com,🚀 节点选择
- - DOMAIN-SUFFIX,galge.fun,🚀 节点选择
- - DOMAIN-SUFFIX,steamdb.info,🚀 节点选择
-# - DOMAIN-SUFFIX,zhihu.com,🚀 节点选择
- - DOMAIN-SUFFIX,reimu.net,🚀 节点选择
- - DOMAIN-SUFFIX,kisssub.org,🚀 节点选择
- - DOMAIN-SUFFIX,greasyfork.org,🚀 节点选择
- - DOMAIN-SUFFIX,mikanani.me,🚀 节点选择
- - DOMAIN-SUFFIX,cangku.io,🚀 节点选择
- - DOMAIN-SUFFIX,cangku.icu,🚀 节点选择
- - DOMAIN-SUFFIX,telegra.ph,🚀 节点选择
- - DOMAIN-SUFFIX,freenom.com,🚀 节点选择
- - DOMAIN-SUFFIX,spotify.com,🚀 节点选择
- - DOMAIN-SUFFIX,nyaa.si,🚀 节点选择
- - DOMAIN-SUFFIX,myunidays.com,🚀 节点选择
- - DOMAIN-SUFFIX,contabo.com,🚀 节点选择
- - DOMAIN-SUFFIX,mozilla.org,🚀 节点选择
- - DOMAIN-SUFFIX,flightradar24.com,🚀 节点选择
- - DOMAIN-SUFFIX,e-hentai.org,🚀 节点选择
- - DOMAIN-SUFFIX,exhentai.org,🚀 节点选择
- - DOMAIN-SUFFIX,ehgt.org,🚀 节点选择
- - DOMAIN-SUFFIX,make.com,🚀 节点选择
- - DOMAIN-SUFFIX,trycloudflare.com,🚀 节点选择
- - DOMAIN-SUFFIX,battle.net,🚀 节点选择
- - DOMAIN-SUFFIX,lilio.ink,🚀 节点选择
+#  - PROCESS-NAME,aria2c.exe,🚀 节点选择
+  - PROCESS-NAME,Pixeval.exe,🚀 节点选择
+  - DOMAIN-KEYWORD,gog,🚀 节点选择
+  - DOMAIN-KEYWORD,pica,🚀 节点选择
+  - DOMAIN,web.telegram.org,🚀 节点选择
+  - DOMAIN,tools.google.com,🚀 节点选择
+  - DOMAIN-SUFFIX,lilyblessing.xyz,🚀 节点选择
+  - DOMAIN-SUFFIX,lilyblessing.tk,🚀 节点选择
+  - DOMAIN-SUFFIX,xpoet.cn,🚀 节点选择
+  - DOMAIN-SUFFIX,keylol.com,🚀 节点选择
+  - DOMAIN-SUFFIX,moetu.club,🚀 节点选择
+  - DOMAIN-SUFFIX,mspcdn.xyz,🚀 节点选择
+  - DOMAIN-SUFFIX,orzcdn.xyz,🚀 节点选择
+  - DOMAIN-SUFFIX,zhihuishu.com,🚀 节点选择
+  - DOMAIN-SUFFIX,appnode.com,🚀 节点选择
+  - DOMAIN-SUFFIX,gstatic.com,🚀 节点选择
+  - DOMAIN-SUFFIX,copymanga.com,🚀 节点选择
+  - DOMAIN-SUFFIX,sayhuahuo.com,🚀 节点选择
+  - DOMAIN-SUFFIX,runoob.com,🚀 节点选择
+  - DOMAIN-SUFFIX,cloudflare.com,🚀 节点选择
+  - DOMAIN-SUFFIX,south-plus.net,🚀 节点选择
+  - DOMAIN-SUFFIX,south-plus.org,🚀 节点选择
+  - DOMAIN-SUFFIX,level-plus.net,🚀 节点选择
+  - DOMAIN-SUFFIX,spring-plus.net,🚀 节点选择
+  - DOMAIN-SUFFIX,summer-plus.net,🚀 节点选择
+  - DOMAIN-SUFFIX,dlsite.com,🚀 节点选择
+  - DOMAIN-SUFFIX,pximg.net,🚀 节点选择
+  - DOMAIN-SUFFIX,pixiv.net,🚀 节点选择
+  - DOMAIN-SUFFIX,qoo-app.com,🚀 节点选择
+  - DOMAIN-SUFFIX,steampy.com,🚀 节点选择
+  - DOMAIN-SUFFIX,msocdn.com,🚀 节点选择
+  - DOMAIN-SUFFIX,office.com,🚀 节点选择
+  - DOMAIN-SUFFIX,moegirl.org,🚀 节点选择
+  - DOMAIN-SUFFIX,javdb.com,🚀 节点选择
+  - DOMAIN-SUFFIX,vaptcha.com,🚀 节点选择
+  - DOMAIN-SUFFIX,acgrip.com,🚀 节点选择
+  - DOMAIN-SUFFIX,tsdm39.net,🚀 节点选择
+  - DOMAIN-SUFFIX,freesw.xyz,🚀 节点选择
+  - DOMAIN-SUFFIX,2dfan.com,🚀 节点选择
+  - DOMAIN-SUFFIX,galge.fun,🚀 节点选择
+  - DOMAIN-SUFFIX,steamdb.info,🚀 节点选择
+#  - DOMAIN-SUFFIX,zhihu.com,🚀 节点选择
+  - DOMAIN-SUFFIX,reimu.net,🚀 节点选择
+  - DOMAIN-SUFFIX,kisssub.org,🚀 节点选择
+  - DOMAIN-SUFFIX,greasyfork.org,🚀 节点选择
+  - DOMAIN-SUFFIX,mikanani.me,🚀 节点选择
+  - DOMAIN-SUFFIX,cangku.io,🚀 节点选择
+  - DOMAIN-SUFFIX,cangku.icu,🚀 节点选择
+  - DOMAIN-SUFFIX,telegra.ph,🚀 节点选择
+  - DOMAIN-SUFFIX,freenom.com,🚀 节点选择
+  - DOMAIN-SUFFIX,spotify.com,🚀 节点选择
+  - DOMAIN-SUFFIX,nyaa.si,🚀 节点选择
+  - DOMAIN-SUFFIX,myunidays.com,🚀 节点选择
+  - DOMAIN-SUFFIX,contabo.com,🚀 节点选择
+  - DOMAIN-SUFFIX,mozilla.org,🚀 节点选择
+  - DOMAIN-SUFFIX,flightradar24.com,🚀 节点选择
+  - DOMAIN-SUFFIX,e-hentai.org,🚀 节点选择
+  - DOMAIN-SUFFIX,exhentai.org,🚀 节点选择
+  - DOMAIN-SUFFIX,ehgt.org,🚀 节点选择
+  - DOMAIN-SUFFIX,make.com,🚀 节点选择
+  - DOMAIN-SUFFIX,trycloudflare.com,🚀 节点选择
+  - DOMAIN-SUFFIX,battle.net,🚀 节点选择
+  - DOMAIN-SUFFIX,lilio.ink,🚀 节点选择
 # 🚀 手动切换
 
 # 🍎 苹果服务
- - PROCESS-NAME,Cider.exe,🍎 Apple 中国
+  - PROCESS-NAME,Cider.exe,🍎 Apple 中国
 # 🇷🇺 毛子节点
- - DOMAIN-SUFFIX,rutracker.org,🇷🇺 毛子节点
- - DOMAIN-SUFFIX,byrut.org,🇷🇺 毛子节点
+  - DOMAIN-SUFFIX,rutracker.org,🇷🇺 毛子节点
+  - DOMAIN-SUFFIX,byrut.org,🇷🇺 毛子节点
 # 🇰🇷 韩国节点
-# - DOMAIN-KEYWORD,nexon,🇰🇷 韩国节点
+#  - DOMAIN-KEYWORD,nexon,🇰🇷 韩国节点
 
 # 🌍 游戏节点
- - PROCESS-NAME,Borderlands3.exe,🌍 游戏节点
- - PROCESS-NAME,StateOfDecay2.exe,🌍 游戏节点
- - PROCESS-NAME,NMS.exe,🌍 游戏节点
- - PROCESS-NAME,GTFO.exe,🌍 游戏节点
- - PROCESS-NAME,AcrossTheObelisk.exe,🌍 游戏节点
- - PROCESS-NAME,Overwatch.exe,🌍 游戏节点
+  - PROCESS-NAME,Borderlands3.exe,🌍 游戏节点
+  - PROCESS-NAME,StateOfDecay2.exe,🌍 游戏节点
+  - PROCESS-NAME,NMS.exe,🌍 游戏节点
+  - PROCESS-NAME,GTFO.exe,🌍 游戏节点
+  - PROCESS-NAME,AcrossTheObelisk.exe,🌍 游戏节点
+  - PROCESS-NAME,Overwatch.exe,🌍 游戏节点
 
 
 # 🎯 全球直连
-# - PROCESS-NAME,dnplayer.exe,🎯 全球直连
- - PROCESS-NAME,leigod.exe,🎯 全球直连
- - PROCESS-NAME,阿里云盘小白羊版v2.exe,🎯 全球直连
- - PROCESS-NAME,wildermyth.exe,🎯 全球直连
- - PROCESS-NAME,QQ.exe,🎯 全球直连
- - PROCESS-NAME,parsecd.exe,🎯 全球直连
- - PROCESS-NAME,qbittorrent.exe,🎯 全球直连
- - PROCESS-NAME,XDown.exe,🎯 全球直连
- - PROCESS-NAME,Bangumi.exe,🎯 全球直连
- - PROCESS-NAME,WeMod.exe,🎯 全球直连
+#  - PROCESS-NAME,dnplayer.exe,🎯 全球直连
+  - PROCESS-NAME,leigod.exe,🎯 全球直连
+  - PROCESS-NAME,阿里云盘小白羊版v2.exe,🎯 全球直连
+  - PROCESS-NAME,wildermyth.exe,🎯 全球直连
+  - PROCESS-NAME,QQ.exe,🎯 全球直连
+  - PROCESS-NAME,parsecd.exe,🎯 全球直连
+  - PROCESS-NAME,qbittorrent.exe,🎯 全球直连
+  - PROCESS-NAME,XDown.exe,🎯 全球直连
+  - PROCESS-NAME,Bangumi.exe,🎯 全球直连
+  - PROCESS-NAME,WeMod.exe,🎯 全球直连
 
 
- - DOMAIN,steamcdn-a.akamaihd.net,🎯 全球直连
- - DOMAIN,steampipe.akamaized.net,🎯 全球直连
- - DOMAIN,imap.qq.com,🎯 全球直连
- - DOMAIN,cn.baozimh.com,🎯 全球直连
+  - DOMAIN,steamcdn-a.akamaihd.net,🎯 全球直连
+  - DOMAIN,steampipe.akamaized.net,🎯 全球直连
+  - DOMAIN,imap.qq.com,🎯 全球直连
+  - DOMAIN,cn.baozimh.com,🎯 全球直连
 
- - DOMAIN-SUFFIX,alicloudccp.com,🎯 全球直连
- - DOMAIN-SUFFIX,alicdn.com,🎯 全球直连
- - DOMAIN-SUFFIX,speedtest.cn,🎯 全球直连
- - DOMAIN-SUFFIX,pinyuncloud.com,🎯 全球直连
- - DOMAIN-SUFFIX,sohu.com,🎯 全球直连
- - DOMAIN-SUFFIX,moegirl.org.cn,🎯 全球直连
- - DOMAIN-SUFFIX,baiduyun.wiki,🎯 全球直连
- - DOMAIN-SUFFIX,vaptcha.com,🎯 全球直连
- - DOMAIN-SUFFIX,omofun.tv,🎯 全球直连
- - DOMAIN-SUFFIX,ghxi.com,🎯 全球直连
- - DOMAIN-SUFFIX,ghpym.com,🎯 全球直连
- - DOMAIN-SUFFIX,bgm.tv,🎯 全球直连
- - DOMAIN-SUFFIX,ykmh.com,🎯 全球直连
- - DOMAIN-SUFFIX,manhuaren.com,🎯 全球直连
+  - DOMAIN-SUFFIX,alicloudccp.com,🎯 全球直连
+  - DOMAIN-SUFFIX,alicdn.com,🎯 全球直连
+  - DOMAIN-SUFFIX,speedtest.cn,🎯 全球直连
+  - DOMAIN-SUFFIX,pinyuncloud.com,🎯 全球直连
+  - DOMAIN-SUFFIX,sohu.com,🎯 全球直连
+  - DOMAIN-SUFFIX,moegirl.org.cn,🎯 全球直连
+  - DOMAIN-SUFFIX,baiduyun.wiki,🎯 全球直连
+  - DOMAIN-SUFFIX,vaptcha.com,🎯 全球直连
+  - DOMAIN-SUFFIX,omofun.tv,🎯 全球直连
+  - DOMAIN-SUFFIX,ghxi.com,🎯 全球直连
+  - DOMAIN-SUFFIX,ghpym.com,🎯 全球直连
+  - DOMAIN-SUFFIX,bgm.tv,🎯 全球直连
+  - DOMAIN-SUFFIX,ykmh.com,🎯 全球直连
+  - DOMAIN-SUFFIX,manhuaren.com,🎯 全球直连
